@@ -23,3 +23,5 @@ export function getPackageJSON(cwd?: string): any {
     } catch (error) {}
   }
 }
+
+export const normalizePath = (localPath: string) => resolve(process.cwd(), localPath)

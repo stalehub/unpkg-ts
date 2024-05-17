@@ -1,8 +1,3 @@
-import { CommandFactory } from 'nest-commander'
-import { AppModule } from './app'
+import { createUnpkgCLI } from '@/cli'
 
-async function bootstrap() {
-  await CommandFactory.run(AppModule)
-}
-
-void bootstrap()
+createUnpkgCLI().parse(process.argv)

@@ -80,16 +80,13 @@
   },
   "dependencies": {
     "@neodx/std": "^0.3.0",
-    "@nestjs/common": "^10.3.8",
-    "@nestjs/core": "^10.3.8",
-    "@nestjs/platform-express": "^10.3.8",
     "chalk": "^5.3.0",
     "clone-git-repo": "^0.0.2",
+    "commander": "^12.0.0",
     "envfile": "^7.1.0",
     "eslint-kit": "^10.31.0",
     "execa": "^8.0.1",
     "ini": "^4.1.2",
-    "nest-commander": "^3.13.0",
     "which": "^4.0.0"
   }
 }
