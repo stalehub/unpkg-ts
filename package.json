@@ -61,7 +61,7 @@
     "eslint-plugin-oxlint": "^0.2.9",
     "esno": "^4.7.0",
     "lint-staged": "^15.2.2",
-    "oxlint": "^0.2.18",
+    "oxlint": "^0.3.5",
     "pnpm": "^8.15.8",
     "prettier": "^3.2.5",
     "rimraf": "^5.0.7",
