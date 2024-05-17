@@ -1,9 +1,8 @@
-declare module 'inquirer-tree-prompt'
-declare module 'inquirer-search-list'
-declare module 'envfile'
+declare module 'clone-git-repo'
 
 declare namespace NodeJS {
   interface Process {
-    SX_CONFIG_PATH: string
+    SHELL: string
+    UNPKG_EDITOR_CLI: string
   }
 }
