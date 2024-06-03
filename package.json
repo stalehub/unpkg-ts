@@ -55,7 +55,7 @@
   },
   "devDependencies": {
     "@antfu/ni": "^0.21.12",
-    "@types/node": "^20.12.12",
+    "@types/node": "^20.14.0",
     "bumpp": "^9.4.1",
     "eslint": "^8.57.0",
     "eslint-plugin-oxlint": "^0.2.9",
