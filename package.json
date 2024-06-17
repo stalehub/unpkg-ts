@@ -63,7 +63,7 @@
     "lint-staged": "^15.2.2",
     "oxlint": "^0.2.18",
     "pnpm": "^8.15.8",
-    "prettier": "^3.2.5",
+    "prettier": "^3.3.2",
     "rimraf": "^5.0.7",
     "simple-git-hooks": "^2.11.1",
     "taze": "^0.13.8",
